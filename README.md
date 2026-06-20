@@ -94,18 +94,7 @@ I am **Sonu Kumar**, a multi-disciplinary Quality Assurance Engineer bridging th
 
 ---
 
-## 🎓 Education & Training
-
-### 🏫 Education
-- **Lovely Professional University, Phagwara, Punjab**
-  - Bachelor of Technology in Computer Science and Engineering | *Aug’ 23 – Present*
-  - **CGPA:** 6.34
-- **Holy Cross School, Ghatotand, Jharkhand**
-  - Intermediate (PCM) | *March’ 20 – March’ 22*
-  - **Percentage:** 72.17%
-- **Holy Cross School, Ghatotand, Jharkhand**
-  - Matriculation | *March’ 09 – March’ 20*
-  - **Percentage:** 74.4%
+## 🎓 Training & Certifications
 
 ### 💼 Summer Training
 - **Summer Trainee** | Lovely Professional University | *Jun’ 25 – July’ 25*
