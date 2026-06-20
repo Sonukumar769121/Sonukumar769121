@@ -13,7 +13,7 @@
   <a href="tel:+917970769121"><img src="https://img.shields.io/badge/Mobile-34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile" /></a>
 </div>
 
-<img align="right" src="./assets/red_developer.png" width="45%" alt="Developer Illustration" />
+<img align="right" src="./assets/developer_avatar.jpg" width="45%" alt="Developer Illustration" />
 
 ## Hi there 👋
 
