@@ -7,6 +7,7 @@
 </div>
 
 <div align="center">
+  <a href="https://s0nuxkum4r.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/sonutester"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kumarsonu123ui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Sonukumar769121"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -71,6 +72,18 @@ I am **Sonu Kumar**, a multi-disciplinary Quality Assurance Engineer bridging th
 - **Tools/Platforms:** Jira, Katalon Studio
 - **Testing Expertise:** Manual Testing, SDLC, Object-Oriented Programming (OOPs), UI/UX Prototyping
 - **Soft Skills:** Continuous Learning, Consistency, Adaptability
+
+---
+
+## 💼 Portfolio
+
+Explore my interactive developer portfolio:
+👉 **[s0nuxkum4r.vercel.app](https://s0nuxkum4r.vercel.app)** 🌐
+
+It features:
+- **Interactive Cyberpunk UI:** Designed with dynamic neon particles, floating orbits, and smooth glassmorphism.
+- **Skill Universe:** Interactive orbiting nodes showcasing my QA & Development technical stack.
+- **Detailed Showcases:** Deep dive into test automation suites, QA methodologies, and visual designs.
 
 ---
 
